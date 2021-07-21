@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\serialcom.o
+./release\cancom.o
+./release\formcantx.o
+./release\cantimer.o
+./release\moc_mainwindow.o
+./release\moc_serialcom.o
+./release\moc_cancom.o
+./release\moc_formcantx.o
+);

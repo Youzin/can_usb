@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\serialcom.o
+./debug\cancom.o
+./debug\formcantx.o
+./debug\cantimer.o
+./debug\moc_mainwindow.o
+./debug\moc_serialcom.o
+./debug\moc_cancom.o
+./debug\moc_formcantx.o
+);
